@@ -10,6 +10,10 @@ https://chat.openai.com/g/g-B3qi2zKGB-comfyui-assistant
 
  Note ：For Now, only for ChatGPT Plus
 
+## ComfyUI 按钮 | Button for ComfyUI 
+
+
+
 ## 项目介绍 | 使用教程 | Tutorial
 
 [【GPTs | 我专门为ComfyUI定制了一个全能助手 | 再也不用担心ComfyUI不会用了】](https://www.bilibili.com/video/BV1LC4y1E78n/?share_source=copy_web&vd_source=aa2245cc0c4c36a0387a65937847fd3c)
