@@ -1,6 +1,16 @@
-# ComfyUI-Assistant-GPTs
+<p align="center"><img  width="160" src="https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs/assets/140084057/6efdab80-88ad-4849-bd41-b6a546eb6c6e" alt="ComfyUI-Assistant Logo" /></p>
+
+<h1 align="center">ComfyUI Assistant</h1>
 
 
+<div align="center">
+
+### **GPTs for ComfyUI    |    Explanation Creation Resolution    |    ComfyUI 助手**
+
+![image](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs/assets/140084057/746d882c-603e-42c6-9635-3c2b5f21f93c)
+
+
+<div align="left">
 
 ## 项目地址 | Link
 
@@ -9,10 +19,6 @@ https://chat.openai.com/g/g-B3qi2zKGB-comfyui-assistant
 **辅助说明：目前需要订阅GPT才可使用**
 
  Note ：For Now, only for ChatGPT Plus
-
-## ComfyUI 按钮 | Button for ComfyUI 
-
-
 
 ## 项目介绍 | 使用教程 | Tutorial
 
@@ -46,13 +52,25 @@ https://chat.openai.com/g/g-B3qi2zKGB-comfyui-assistant
 
 
 
+## ComfyUI 按钮 | Button for ComfyUI 
+
+![image](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs/assets/140084057/1d744de1-9c98-487f-9e4e-f1583c710c6e)
+
+**下载ComfyUI_Assistant.js之后放到\ComfyUI\web\extensions中即可**
+
+Download ComfyUI_Assistant.js and put it in \ComfyUI\web\extensions, that's all
+
 
 
 ## 更新日志
 
 20231112
+- **创建了一个用于ComfyUI的按钮，点击即可直达 ComfyUI Assistant**
+  
+  Created a button for ComfyUI, click to go directly to ComfyUI Assistant
+
 - **全新GPTs ：ComfyUI Assistant 上线！再也不用担心学不会ComfyUI了！**
-- 
+  
   Brand new GPTs: ComfyUI Assistant is online! No more worrying about not being able to learn ComfyUI!
 
 20231111
