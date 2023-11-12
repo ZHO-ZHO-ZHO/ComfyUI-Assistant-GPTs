@@ -42,13 +42,16 @@ https://chat.openai.com/g/g-B3qi2zKGB-comfyui-assistant
 
 **2. 工作流 | Workflows**
 
-   **1）工作流解释与说明：会自动分析所包含的节点内容与参数，可以详细解决参数用法**
+   **1）工作流解释与说明：会自动分析所包含的节点内容与参数，可以详细解决参数用法，支持直接分析工作流图片**
    
    Workflow explanation and description: It will automatically analyze the node content and parameters contained, and can solve the parameter usage in detail
 
    **2）缺失节点查找：会自动给出缺失节点所属项目的详细信息与链接，方便直达**
    
    Missing node search: Detailed information and links to the projects to which the missing nodes belong will be automatically given for easy access.
+
+
+<img width="492" alt="130517066c66771c5d5471f33c88fa2" src="https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs/assets/140084057/5b383d5d-a8b3-4491-b039-9f80e0847364">
 
 
 
@@ -65,6 +68,11 @@ Download ComfyUI_Assistant.js and put it in \ComfyUI\web\extensions, that's all
 ## 更新日志
 
 20231112
+
+- **现已支持对ComfyUI工作流图片的解释和参数说明功能**
+
+  support explaining image of workflows
+
 - **创建了一个用于ComfyUI的按钮，点击即可直达 ComfyUI Assistant**
   
   Created a button for ComfyUI, click to go directly to ComfyUI Assistant
