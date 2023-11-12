@@ -51,8 +51,7 @@ https://chat.openai.com/g/g-B3qi2zKGB-comfyui-assistant
    Missing node search: Detailed information and links to the projects to which the missing nodes belong will be automatically given for easy access.
 
 
-<img width="492" alt="130517066c66771c5d5471f33c88fa2" src="https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs/assets/140084057/5b383d5d-a8b3-4491-b039-9f80e0847364">
-
+![image](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs/assets/140084057/5b383d5d-a8b3-4491-b039-9f80e0847364)
 
 
 ## ComfyUI 按钮 | Button for ComfyUI 
