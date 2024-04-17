@@ -107,3 +107,20 @@ Download ComfyUI_Assistant.js and put it in \ComfyUI\web\extensions, that's all
 - **创建了ComfyUI Nodes Creator，是一个可用于节点生成和解释的GPTs，订阅了GPT的小伙伴可以去玩**
   
   Created ComfyUI Nodes Creator, which is a GPTs that can be used for node generation and interpretation. Friends who subscribe to GPT can play it.
+
+
+## 关于我 | About me
+
+📬 **联系我**：
+- 邮箱：zhozho3965@gmail.com
+- QQ 群：839821928
+
+🔗 **社交媒体**：
+- 个人页：[-Zho-](https://jike.city/zho)
+- Bilibili：[我的B站主页](https://space.bilibili.com/484366804)
+- X（Twitter）：[我的Twitter](https://twitter.com/ZHOZHO672070)
+- 小红书：[我的小红书主页](https://www.xiaohongshu.com/user/profile/63f11530000000001001e0c8?xhsshare=CopyLink&appuid=63f11530000000001001e0c8&apptime=1690528872)
+
+💡 **支持我**：
+- B站：[B站充电](https://space.bilibili.com/484366804)
+- 爱发电：[为我充电](https://afdian.net/a/ZHOZHO)
