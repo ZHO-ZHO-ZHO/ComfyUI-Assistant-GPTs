@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-assistant-gpts"
-description = ""
+description = "GPTs for ComfyUI | Explanation Creation Resolution | ComfyUI 助手"
 version = "1.0.0"
 license = "LICENSE"
 
