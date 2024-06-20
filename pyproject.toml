@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-assistant-gpts"
+description = "GPTs for ComfyUI | Explanation Creation Resolution | ComfyUI 助手"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Assistant-GPTs"
+Icon = ""
